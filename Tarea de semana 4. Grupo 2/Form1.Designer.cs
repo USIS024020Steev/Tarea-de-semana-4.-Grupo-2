@@ -1,5 +1,7 @@
 ﻿
 namespace Tarea_de_semana_4.Grupo_2
+
+
 {
     partial class Form1
     {
